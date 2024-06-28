@@ -1,6 +1,6 @@
 # 3D ANIMATED LAMBORGHINI WEBSITE
 
-This is for my learning purpose only
+This is for my learning purpose only <br>
 This repository contains a 3D model animation of the Lamborghini Centenario LP-770. The animation is triggered by scrolling and is created using GSAP, Webgi, and Three.js.
 
 ## Demo
